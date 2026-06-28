@@ -1,2 +1,7 @@
+# CODTECH TASK-4
 # employee-productivity-study
-Name: Aman Kumar Intern ID: [ CITS4592 ] Branch: B.Tech Electrical Engineering (1st Year)
+Intern Details
+Name: [AMAN KUMAR]
+Intern ID: [CITS4592]
+Program: B.Tech
+Role/Position: Data Analytics Intern
